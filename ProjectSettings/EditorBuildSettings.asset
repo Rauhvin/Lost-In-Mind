@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: 2a46b007d11f0074e93158b1177c17ac
+  - enabled: 1
+    path: Assets/Scenes/MainEscapeScene.unity
+    guid: 934d2c6b7fe63864b9d376beb38473e8
+  - enabled: 1
+    path: Assets/Scenes/Ending - Truth.unity
+    guid: 994ea911f17aaa649a98a095194fe223
+  - enabled: 1
+    path: Assets/Scenes/End1-bad.unity
+    guid: 18c5aa653db267d4cb0d75fe58fe7bac
+  - enabled: 0
+    path: Assets/Scenes/End2-good.unity
+    guid: ae91b56957c0847458703d3f3d9b5046
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
