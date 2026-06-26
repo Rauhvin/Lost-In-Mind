@@ -43,7 +43,7 @@ All custom gameplay logic and scripts are located in the dedicated directory:
 ---
 
 ## 🔄 Version Control
-The primary and native version control system utilized by the team during the active production and development phase within the Unity engine was **Unity Version Control**. 
+The primary and native version control system utilized by us during the active production and development phase within the Unity engine was **Unity Version Control**. 
 
 ---
 
