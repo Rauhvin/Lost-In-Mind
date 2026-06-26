@@ -1,0 +1,296 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8456204185241461803
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.011874578
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.011874576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.011874577
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -31.440481
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.030799985
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.4729104
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.6241626
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.33229658
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.33229652
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.62416273
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -303.939
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -6636569964863955296, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5152ed91d844ae64192288d1358c690f, type: 2}
+    - target: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_Name
+      value: SONY_Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6068043679505303081}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9044614438829136758}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 52091425501730896}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8855936170071339783}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7661900202266575329}
+  m_SourcePrefab: {fileID: 100100000, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+--- !u!1 &8762616426649360762 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0aa9caaa39b25604d8391d980428de4e, type: 3}
+  m_PrefabInstance: {fileID: 8456204185241461803}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6068043679505303081
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8762616426649360762}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.6685302, y: 56.323822, z: 22.068075}
+  m_Center: {x: -0.8342658, y: -21.675013, z: 2.946337}
+--- !u!82 &9044614438829136758
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8762616426649360762}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 3a097275b53910448949c2d6c1d6af6c, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!165 &52091425501730896
+AudioHighPassFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8762616426649360762}
+  m_Enabled: 1
+  m_CutoffFrequency: 1500
+  m_HighpassResonanceQ: 1
+--- !u!169 &8855936170071339783
+AudioLowPassFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8762616426649360762}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_LowpassResonanceQ: 1
+  lowpassLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.22692133
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &7661900202266575329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8762616426649360762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9f23b70477d9294ba40b13341622fb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VoiceRecorder
+  promptText: {fileID: 0}
+  subtitleText: {fileID: 0}
+  dialogLines:
+  - Dr. Evans recording. Progress report on Patient 512.
+  - We are initiating the final phase of Project Anamnesis.
+  - The patient has been in a comatose state for three months... following the severe
+    fire at his residence.
+  - His subconscious has constructed a psychological defense mechanism... a loop.
+  - If we cannot force his consciousness to face the trauma within the next five
+    minutes of deep synchronization...
+  - ...the brain death will become permanent.
+  - Initiate the simulation now.
+  lineDurations:
+  - 7
+  - 6
+  - 7
+  - 7
+  - 8
+  - 3.5
+  - 3
+  nextSceneName: MainEscapeScene
+  playerFinalWords: It's... it's me. I am Patient 512.  It was a fire... It wasn't
+    an investigation.I was there. Oh god, I left her in the room... I couldn't open
+    the door.  No... no, I am not losing her again. Not like this!
+  fadeImage: {fileID: 0}
+  cameraFilter: {fileID: 0}
+  cameraTransform: {fileID: 0}
+  playerAudioSource: {fileID: 0}
+  playerVoiceClip: {fileID: 8300000, guid: dcab5f3f6c161d646a65a85203ab4794, type: 3}
+  dictaphoneAudioSource: {fileID: 9044614438829136758}
+  playerMovement: {fileID: 0}
+  backgroundMusicSource: {fileID: 0}
