@@ -15,7 +15,7 @@ The compiled, ready-to-play Windows version of the game (containing the `.exe` f
   <img src="menu.png"  alt="Main Menu"/>
 </p>
 <p align="center">
-  <img src="gameplay.png" alt="Gameplay"/>
+  <img src="gameplay.png" alt="Gameplay "/>
 </p>
 <p align="center">
   <img src="journal.png" alt="Journal UI"/>
